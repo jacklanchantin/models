@@ -21,6 +21,7 @@ info: # General information about the model
     contributors:
         - name: Jack Lanchantin
           github: jacklanchantin
+          email: jjl5sw@virginia.edu
         - name: Jeffrey Yoo
           github: jeffreyyoo
     doc: Gene Expression Prediction
